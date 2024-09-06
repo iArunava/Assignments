@@ -2,7 +2,7 @@
 ### Spring 2024
 
 | File name | Reference | Link | 
-| --- | --- | ----- | ----- |
+| --- | --- | ----- |
 | Confusing | Self Check 1.26: Confusing | https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s26%2DConfusing
 | StarTriangle | Exercise 2.5: starTriangle | https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e5%2DstarTriangle
 | NumberTotal | Self-Check 2.25: numberTotal | https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s25%2DnumberTotal
